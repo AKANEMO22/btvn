@@ -1,0 +1,55 @@
+def get_unique_words(filename):
+    try:
+        unique_words = []
+        with open(filename) as file:
+            for line in file:
+                words = line.split()
+                for word in words:
+                    if word not in unique_words:
+                        unique_words.append(word)
+        return sorted(unique_words)
+    except FileNotFoundError:
+        print(f"File cannot be opened: {filename}")
+        return []
+
+def process_emails(filename):
+    try:
+        count = 0
+        with open(filename) as file:
+            for line in file:
+                if line.startswith('From '):  
+                    words = line.split()
+                    print(words[1])  
+                    count += 1
+        print(f"There were {count} lines in the file with From as the first word")
+    except FileNotFoundError:
+        print(f"File cannot be opened: {filename}")
+    except IndexError:
+        print("File format is incorrect")
+
+def get_numbers():
+    numbers = []
+    while True:
+        inp = input("Enter a number: ")
+        if inp.lower() == "done":
+            break
+        try:
+            num = float(inp)
+            numbers.append(num)
+        except ValueError:
+            print("Invalid input")
+            continue
+    return numbers
+
+filename = input("Enter file: ")
+words = get_unique_words(filename)
+print(words)
+filename = input("Enter a file name: ")
+process_emails(filename)
+
+numbers = get_numbers()
+if numbers:
+    print(f"Maximum: {max(numbers)}")
+    print(f"Minimum: {min(numbers)}")
+else:
+    print("No numbers were entered")
