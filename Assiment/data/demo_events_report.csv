@@ -1,0 +1,9 @@
+Event ID,Name,Description,Date,Time,Location,Max Capacity,Current Attendees,Organizer
+event_1,Tech Conference 2024,Annual technology conference with industry experts,2024-04-15,09:00,Main Conference Hall,150,2,test_admin
+event_2,Student Art Exhibition,Showcase of student artwork and creative projects,2024-04-20,14:00,Art Gallery,80,1,test_admin
+event_3,Workshop Series,Weekly programming workshops,2024-04-25,16:00,Computer Lab 201,25,0,test_organizer
+event_4,Spring Festival,Description for Spring Festival,2024-05-10,10:00,Venue 1,50,3,demo_admin
+event_5,Career Workshop,Description for Career Workshop,2024-05-11,10:00,Venue 2,60,1,demo_admin
+event_6,Sports Tournament,Description for Sports Tournament,2024-05-12,10:00,Venue 3,70,2,demo_admin
+event_7,Academic Seminar,Description for Academic Seminar,2024-05-13,10:00,Venue 4,80,2,demo_admin
+event_8,Organizer's Special Event,A special event organized by our demo organizer,2024-05-15,15:00,Special Venue,30,0,demo_organizer

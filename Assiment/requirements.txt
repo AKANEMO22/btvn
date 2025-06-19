@@ -1,0 +1,19 @@
+# Campus Event Management System
+# No external dependencies required - uses only Python standard library
+
+# Python version requirement
+# Python >= 3.7
+
+# Standard library modules used:
+# - json: For data serialization
+# - csv: For data export
+# - datetime: For date/time handling
+# - typing: For type hints
+# - os: For file operations
+# - enum: For role enumeration
+
+# Optional enhancements (for future development):
+# - flask: For web interface
+# - sqlalchemy: For database integration
+# - pytest: For automated testing
+# - pandas: For advanced data analysis 

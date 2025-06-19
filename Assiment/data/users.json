@@ -1,0 +1,110 @@
+{
+  "user_1": {
+    "user_id": "user_1",
+    "username": "test_admin",
+    "role": "admin",
+    "email": "admin@test.edu",
+    "created_events": [
+      "event_1",
+      "event_2"
+    ],
+    "registered_events": []
+  },
+  "user_2": {
+    "user_id": "user_2",
+    "username": "test_organizer",
+    "role": "event_organizer",
+    "email": "organizer@test.edu",
+    "created_events": [
+      "event_3"
+    ],
+    "registered_events": []
+  },
+  "user_3": {
+    "user_id": "user_3",
+    "username": "test_student",
+    "role": "student",
+    "email": "student@test.edu",
+    "created_events": [],
+    "registered_events": [
+      "event_1"
+    ]
+  },
+  "user_4": {
+    "user_id": "user_4",
+    "username": "test_visitor",
+    "role": "visitor",
+    "email": "visitor@test.edu",
+    "created_events": [],
+    "registered_events": [
+      "event_1",
+      "event_2"
+    ]
+  },
+  "user_5": {
+    "user_id": "user_5",
+    "username": "demo_admin",
+    "role": "admin",
+    "email": "",
+    "created_events": [
+      "event_4",
+      "event_5",
+      "event_6",
+      "event_7"
+    ],
+    "registered_events": []
+  },
+  "user_6": {
+    "user_id": "user_6",
+    "username": "student_1",
+    "role": "student",
+    "email": "",
+    "created_events": [],
+    "registered_events": [
+      "event_4",
+      "event_5",
+      "event_6",
+      "event_7"
+    ]
+  },
+  "user_7": {
+    "user_id": "user_7",
+    "username": "student_2",
+    "role": "student",
+    "email": "",
+    "created_events": [],
+    "registered_events": [
+      "event_4",
+      "event_6"
+    ]
+  },
+  "user_8": {
+    "user_id": "user_8",
+    "username": "student_3",
+    "role": "student",
+    "email": "",
+    "created_events": [],
+    "registered_events": [
+      "event_4",
+      "event_7"
+    ]
+  },
+  "user_9": {
+    "user_id": "user_9",
+    "username": "demo_organizer",
+    "role": "event_organizer",
+    "email": "",
+    "created_events": [
+      "event_8"
+    ],
+    "registered_events": []
+  },
+  "user_10": {
+    "user_id": "user_10",
+    "username": "dfgdf",
+    "role": "admin",
+    "email": "lkjrdsfdgs",
+    "created_events": [],
+    "registered_events": []
+  }
+}

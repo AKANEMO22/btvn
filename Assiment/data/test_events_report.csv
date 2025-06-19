@@ -1,0 +1,4 @@
+Event ID,Name,Description,Date,Time,Location,Max Capacity,Current Attendees,Organizer
+event_1,Tech Conference 2024,Annual technology conference with industry experts,2024-04-15,09:00,Main Conference Hall,150,2,test_admin
+event_2,Student Art Exhibition,Showcase of student artwork and creative projects,2024-04-20,14:00,Art Gallery,80,1,test_admin
+event_3,Workshop Series,Weekly programming workshops,2024-04-25,16:00,Computer Lab 201,25,0,test_organizer

@@ -1,0 +1,115 @@
+{
+  "event_1": {
+    "event_id": "event_1",
+    "name": "Tech Conference 2024",
+    "description": "Annual technology conference with industry experts",
+    "date": "2024-04-15",
+    "time": "09:00",
+    "location": "Main Conference Hall",
+    "max_capacity": 150,
+    "organizer_id": "user_1",
+    "attendees": [
+      "user_3",
+      "user_4"
+    ],
+    "created_at": "2025-06-19T08:08:01.217607"
+  },
+  "event_2": {
+    "event_id": "event_2",
+    "name": "Student Art Exhibition",
+    "description": "Showcase of student artwork and creative projects",
+    "date": "2024-04-20",
+    "time": "14:00",
+    "location": "Art Gallery",
+    "max_capacity": 80,
+    "organizer_id": "user_1",
+    "attendees": [
+      "user_4"
+    ],
+    "created_at": "2025-06-19T08:08:01.218612"
+  },
+  "event_3": {
+    "event_id": "event_3",
+    "name": "Workshop Series",
+    "description": "Weekly programming workshops",
+    "date": "2024-04-25",
+    "time": "16:00",
+    "location": "Computer Lab 201",
+    "max_capacity": 25,
+    "organizer_id": "user_2",
+    "attendees": [],
+    "created_at": "2025-06-19T08:08:01.227177"
+  },
+  "event_4": {
+    "event_id": "event_4",
+    "name": "Spring Festival",
+    "description": "Description for Spring Festival",
+    "date": "2024-05-10",
+    "time": "10:00",
+    "location": "Venue 1",
+    "max_capacity": 50,
+    "organizer_id": "user_5",
+    "attendees": [
+      "user_6",
+      "user_7",
+      "user_8"
+    ],
+    "created_at": "2025-06-19T08:08:01.237747"
+  },
+  "event_5": {
+    "event_id": "event_5",
+    "name": "Career Workshop",
+    "description": "Description for Career Workshop",
+    "date": "2024-05-11",
+    "time": "10:00",
+    "location": "Venue 2",
+    "max_capacity": 60,
+    "organizer_id": "user_5",
+    "attendees": [
+      "user_6"
+    ],
+    "created_at": "2025-06-19T08:08:01.238747"
+  },
+  "event_6": {
+    "event_id": "event_6",
+    "name": "Sports Tournament",
+    "description": "Description for Sports Tournament",
+    "date": "2024-05-12",
+    "time": "10:00",
+    "location": "Venue 3",
+    "max_capacity": 70,
+    "organizer_id": "user_5",
+    "attendees": [
+      "user_6",
+      "user_7"
+    ],
+    "created_at": "2025-06-19T08:08:01.239748"
+  },
+  "event_7": {
+    "event_id": "event_7",
+    "name": "Academic Seminar",
+    "description": "Description for Academic Seminar",
+    "date": "2024-05-13",
+    "time": "10:00",
+    "location": "Venue 4",
+    "max_capacity": 80,
+    "organizer_id": "user_5",
+    "attendees": [
+      "user_6",
+      "user_8"
+    ],
+    "created_at": "2025-06-19T08:08:01.239748"
+  },
+  "event_8": {
+    "event_id": "event_8",
+    "name": "Organizer's Special Event",
+    "description": "A special event organized by our demo organizer",
+    "date": "2024-05-15",
+    "time": "15:00",
+    "location": "Special Venue",
+    "max_capacity": 30,
+    "organizer_id": "user_9",
+    "attendees": [],
+    "created_at": "2025-06-19T08:08:01.255321"
+  }
+}
